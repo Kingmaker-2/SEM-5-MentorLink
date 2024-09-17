@@ -25,14 +25,14 @@ const Hero = () => {
               animate="visible"
               className="text-5xl font-semibold lg:text-6xl !leading-tight"
             >
-              Find Your Perfect <span className="text-primary">Tutor</span>
+              Find Your Perfect <span className="text-primary">Mentor</span>
             </motion.h1>
             <motion.p
               variants={SlideRight(0.8)}
               initial="hidden"
               animate="visible"
             >
-              We help you find perfect tutor for 1-on-1 lessons. It is
+              We provide you with experienced mentor for 1-on-1 discussion. It is
               completely free and private
             </motion.p>
             {/* button section */}
@@ -42,7 +42,7 @@ const Hero = () => {
               animate="visible"
               className="flex gap-8 justify-center md:justify-start !mt-8 items-center"
             >
-              <button className="primary-btn">Get Started</button>
+              <button className="primary-btn">Login</button>
               <button className="flex justify-end items-center gap-2 font-semibold">
                 <span className="w-10 h-10 bg-secondary/15 rounded-full flex justify-center items-center">
                   <FaPlay className="text-secondary" />

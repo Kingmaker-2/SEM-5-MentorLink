@@ -8,16 +8,16 @@ import { SlideLeft } from "../../utility/animation";
 const WhyChooseData = [
   {
     id: 1,
-    title: "One-on-one Teaching",
-    desc: "All of our special education experts have a degree in special education.",
+    title: "One-on-one Discussion",
+    desc: "Student and Mentor Discussion",
     icon: <GrYoga />,
     bgColor: "#0063ff",
     delay: 0.3,
   },
   {
     id: 2,
-    title: "24/7 Tutor Availability",
-    desc: "Our tutors are always available to respond as quick as possible for you",
+    title: "Friendly Mentors",
+    desc: "Our Mentors are always available to respond as quick as possible for you",
     link: "/",
     icon: <FaDumbbell />,
     bgColor: "#73bc00",
@@ -25,8 +25,8 @@ const WhyChooseData = [
   },
   {
     id: 3,
-    title: "Interactive Whiteboard",
-    desc: "Our digital whiteboard equipped with audio and video chat fetures.",
+    title: "Clear Guidance",
+    desc: "Doubt Solving through Online Chats and Video Calls.",
     link: "/",
     icon: <GiGymBag />,
     bgColor: "#fa6400",
@@ -34,8 +34,8 @@ const WhyChooseData = [
   },
   {
     id: 4,
-    title: "Affordable Prices",
-    desc: "Choose an expert tutor based on your budget and per hour.",
+    title: "Expert Mentors",
+    desc: "Choose an expert Mentor based on your domain.",
     link: "/",
     icon: <GiGymBag />,
     bgColor: "#fe6baa",
@@ -52,7 +52,7 @@ const WhyChooseUs = () => {
             Why Choose Us
           </h1>
           <p className="font-semibold text-3xl">
-            Benefits of online tutoring services with us
+            Benefits of Online Mentoring services with us
           </p>
         </div>
         {/* cards section */}

@@ -24,9 +24,9 @@ const Footer = () => {
                 <p className="">E-Tutor</p>
               </div>
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque
-                accusamus nulla labore cumque id ipsum molestias architecto
-                voluptatum saepe ab.
+                MentorLink aims to bridge the gap between students and alumni by
+                creating a platform that connects them for mentorship and
+                guidance.
               </p>
               <div className="flex items-center justify-start gap-5 !mt-6">
                 <a href="#" className="hover:text-secondary duration-200">
@@ -62,7 +62,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <a href="#" className="hover:text-secondary duration-200">
-                      Services
+                      Features
                     </a>
                   </li>
                   <li>
@@ -72,58 +72,28 @@ const Footer = () => {
                   </li>
                 </ul>
               </div>
+              
               <div className="py-8 px-4">
                 <h1 className="sm:text-xl text-xl font-bold sm:text-left text-justify mb-5">
-                  Resources
+                  Support
                 </h1>
                 <ul className="flex flex-col gap-3">
                   <li>
                     <a href="#" className="hover:text-secondary duration-200">
-                      Home
+                      FAQ
                     </a>
                   </li>
                   <li>
                     <a href="#" className="hover:text-secondary duration-200">
-                      About
+                      Contact
                     </a>
                   </li>
                   <li>
                     <a href="#" className="hover:text-secondary duration-200">
-                      Services
+                      Features
                     </a>
                   </li>
-                  <li>
-                    <a href="#" className="hover:text-secondary duration-200">
-                      Login
-                    </a>
-                  </li>
-                </ul>
-              </div>
-              <div className="py-8 px-4">
-                <h1 className="sm:text-xl text-xl font-bold sm:text-left text-justify mb-5">
-                  Company Links
-                </h1>
-                <ul className="flex flex-col gap-3">
-                  <li>
-                    <a href="#" className="hover:text-secondary duration-200">
-                      Home
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#" className="hover:text-secondary duration-200">
-                      About
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#" className="hover:text-secondary duration-200">
-                      Services
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#" className="hover:text-secondary duration-200">
-                      Login
-                    </a>
-                  </li>
+                 
                 </ul>
               </div>
             </div>

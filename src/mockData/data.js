@@ -6,22 +6,13 @@ export const NavbarMenu = [
   },
   {
     id: 2,
-    title: "For Students",
+    title: "About Us",
     link: "#",
   },
   {
     id: 3,
-    title: "Resources",
+    title: "Contact",
     link: "#",
   },
-  {
-    id: 4,
-    title: "About us",
-    link: "#",
-  },
-  {
-    id: 5,
-    title: "Contact us",
-    link: "#",
-  },
+  
 ];

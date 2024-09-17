@@ -14,7 +14,7 @@ import Footer from "./components/Footer/Footer";
 const BannerData = {
   image: Img1,
   tag: "CUSTOMIZE WITH YOUR SCHEDULE",
-  title: "Personalized Professional Online Tutor on Your Schedule",
+  title: "Personalized Professional Online Mentor on Your Chosen Domain",
   subtitle:
     "Our scheduling system allows you to select based on your free time. Lorem ipsum demo text for template. Keep track of your students class and tutoring schedules, and never miss your lectures. The best online class scheduling system with easy accessibility.Lorem ipsum is a placeholder text commonly used to demonstrate the visual form",
   link: "#",
@@ -23,7 +23,7 @@ const BannerData = {
 const BannerData2 = {
   image: Img2,
   tag: "CUSTOMIZE WITH YOUR SCHEDULE",
-  title: "Talented and Qualified Tutors to Serve You for Help",
+  title: "Talented and Qualified Mentors to Serve You for Help",
   subtitle:
     "Our scheduling system allows you to select based on your free time. Lorem ipsum demo text for template. Keep track of your students class and tutoring schedules, and never miss your lectures. The best online class scheduling system with easy accessibility. Lorem ipsum is a placeholder text commonly used",
   link: "#",
