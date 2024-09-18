@@ -21,7 +21,7 @@ const Footer = () => {
             <div className="py-8 px-4 space-y-4">
               <div className="text-2xl flex items-center gap-2 font-bold uppercase">
                 <MdComputer className="text-secondary text-4xl" />
-                <p className="">E-Tutor</p>
+                <p className="">MentorLink</p>
               </div>
               <p>
                 MentorLink aims to bridge the gap between students and alumni by
@@ -72,7 +72,7 @@ const Footer = () => {
                   </li>
                 </ul>
               </div>
-              
+
               <div className="py-8 px-4">
                 <h1 className="sm:text-xl text-xl font-bold sm:text-left text-justify mb-5">
                   Support
@@ -93,7 +93,6 @@ const Footer = () => {
                       Features
                     </a>
                   </li>
-                 
                 </ul>
               </div>
             </div>
@@ -103,7 +102,7 @@ const Footer = () => {
             <div className="text-center py-6 border-t-2 border-gray-800/10">
               <span className="text-sm text-black/60">
                 {" "}
-                @copyright 2024 The Coding Journey
+                @copyright 2024 MentorLink
               </span>
             </div>
           </div>

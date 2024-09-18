@@ -16,7 +16,7 @@ const BannerData = {
   tag: "CUSTOMIZE WITH YOUR SCHEDULE",
   title: "Personalized Professional Online Mentor on Your Chosen Domain",
   subtitle:
-    "Our scheduling system allows you to select based on your free time. Lorem ipsum demo text for template. Keep track of your students class and tutoring schedules, and never miss your lectures. The best online class scheduling system with easy accessibility.Lorem ipsum is a placeholder text commonly used to demonstrate the visual form",
+    "At MentorLink, we connect students with experienced alumni mentors who offer personalized guidance in your chosen domain. Our platform provides seamless video calls and real-time chat features, allowing you to receive tailored advice and support from industry professionals anytime, anywhere. With our trusted alumni network, you gain direct access to expert knowledge and career insights, helping you grow and succeed in your academic and professional journey.",
   link: "#",
 };
 
@@ -25,7 +25,7 @@ const BannerData2 = {
   tag: "CUSTOMIZE WITH YOUR SCHEDULE",
   title: "Talented and Qualified Mentors to Serve You for Help",
   subtitle:
-    "Our scheduling system allows you to select based on your free time. Lorem ipsum demo text for template. Keep track of your students class and tutoring schedules, and never miss your lectures. The best online class scheduling system with easy accessibility. Lorem ipsum is a placeholder text commonly used",
+    "Our mentors are successful alumni from diverse fields, bringing years of real-world experience and expertise. Each mentor is carefully selected to ensure they have the knowledge and qualifications to guide you in your specific area of interest. Whether you need career advice, academic support, or professional insights, our mentors are dedicated to helping you achieve your goals with personalized, high-quality mentorship",
   link: "#",
 };
 
